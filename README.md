@@ -1,49 +1,87 @@
-🚀 Full Stack Developer | Dados | Sistemas Corporativos
-💡 Backend • Frontend • Dados • SAP • Automação
+# 🚀 Felipe Fernandes
 
-🧠 Diferencial
-Experiência prática com dados reais de empresa, processos de suprimentos (SAP MM) e desenvolvimento de soluções para apoio à decisão.
-# 👋 Fala, eu sou o Felipe Fernandes
+## Full Stack Developer | Backend • Frontend • Dados • SAP
+
+💡 Construindo soluções que conectam sistemas, dados e negócio
+
+---
 
 🎓 Estudante de Sistemas de Informação – PUC Minas (7º período)
 💼 Experiência com SAP MM, dados e automação de processos
-🚀 Focado em Backend, Frontend, Dados e Sistemas Corporativos
+🚀 Atuação com desenvolvimento full stack e análise de dados
 
 ---
 
 ## 💻 Tecnologias e Ferramentas
 
-* 💡 Backend: APIs REST, lógica de sistemas
-* 🐍 Python | FastAPI
-* 🗄️ SQL | PostgreSQL
-* 🎨 Frontend: HTML | CSS | JavaScript | React (básico/intermediário)
-* 📊 Power BI (dashboards e KPIs)
-* ⚙️ SAP MM (dados, fornecedores, processos)
-* 🐳 Docker
+### 🔧 Backend
+
+* Python | FastAPI
+* APIs REST
+
+### 🎨 Frontend
+
+* HTML | CSS | JavaScript
+* React (básico/intermediário)
+
+### 🗄️ Dados
+
+* SQL | PostgreSQL
+* Power BI (dashboards e KPIs)
+
+### ⚙️ Outros
+
+* SAP MM
+* Docker
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-🔹 **Sistema de Monitoramento IoT**
-Arquitetura com simulação de sensores + API + banco de dados
-→ Processamento de dados em tempo real
+### 🔹 IoT Energy Monitoring
 
-🔹 **Dashboard de Compras e Fornecedores**
-Análise de atrasos, performance e indicadores estratégicos
-→ Foco em tomada de decisão
+Sistema full stack para monitoramento de consumo energético em tempo real.
 
-🔹 **Projeto Acadêmico – Sistemas de Recomendação**
-Estudo sobre percepção de usuários em algoritmos de streaming
+* Simulação de sensores
+* API com FastAPI
+* Banco PostgreSQL
+* (em evolução) Dashboard web
 
-🔹 **(Futuro) Sistema de Gestão de Fornecedores**
-Projeto inspirado em processos reais do SAP MM
+### 🔹 Dashboard de Compras e Fornecedores
+
+Análise de pedidos, atrasos e performance de fornecedores.
+
+* KPIs estratégicos
+* Foco em tomada de decisão
+
+### 🔹 Sistema de Recomendação (Acadêmico)
+
+Estudo sobre percepção de usuários em algoritmos de streaming.
+
+---
+
+## 🧠 Diferencial
+
+Experiência prática com:
+
+* Dados reais de empresa
+* Processos de suprimentos (SAP MM)
+* Automação de processos
+* Desenvolvimento de APIs e sistemas
+* Criação de dashboards para tomada de decisão
 
 ---
 
 ## 🎯 Meu foco
 
-Desenvolver soluções **full stack** que conectem **frontend, backend, dados e negócio**, gerando valor real para empresas.
+Desenvolver soluções **full stack** que integrem:
+
+* Frontend
+* Backend
+* Dados
+* Regras de negócio
+
+Gerando valor real para empresas.
 
 ---
 
@@ -52,18 +90,4 @@ Desenvolver soluções **full stack** que conectem **frontend, backend, dados e 
 * 💼 LinkedIn: https://www.linkedin.com/in/felipebellis/?skipRedirect=true
 * 📧 Email: ffelipebellis@gmail.com
 
-
-<!--
-**felipe-f1/felipe-f1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
