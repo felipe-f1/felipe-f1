@@ -3,7 +3,8 @@
 ## Full Stack Developer | Backend • Frontend • Dados • SAP
 
 💡 Construindo soluções que conectam sistemas, dados e negócio
-
+## 📸 Demonstração
+![dashboard](foto painel.png)
 ---
 
 🎓 Estudante de Sistemas de Informação – PUC Minas (7º período)
